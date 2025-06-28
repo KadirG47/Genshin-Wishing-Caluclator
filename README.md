@@ -14,7 +14,6 @@ A simple, user-friendly Genshin Impact wish/pity calculator written in Python wi
 
 1. **Install Python 3.7 or newer.**
 2. **Run the app:**
-   
 3. **Your wish history is saved locally in your home directory.**
 
 ## License
